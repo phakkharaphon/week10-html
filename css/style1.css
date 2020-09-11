@@ -1,0 +1,12 @@
+
+body{
+    font-family:'open Sans',sans-serif;
+    font-weight: 300;
+    background-color: blueviolet;
+}
+.textCenter{
+    text-align: center;
+}
+#u-textCenter{
+    text-align: center;
+}
